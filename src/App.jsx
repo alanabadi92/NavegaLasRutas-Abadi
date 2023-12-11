@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Title/>
-
+hola
       <NavBar/>
      
       <ItemListContainer title="Bienvenido"/>
